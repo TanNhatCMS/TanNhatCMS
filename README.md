@@ -7,7 +7,7 @@
 <h2 >Github stats :bar_chart:</h2>
 
 <h4 >Visitor's count :eyes:</h4>
-![](https://komarev.com/ghpvc/?username=TanNhatCMS&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=TanNhatCMS&style=flat-square"/>
 <h4>Top langs :tongue:</h4>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanNhatCMS&langs_count=10&theme=tokyonight&layout=compact" alt="TanNhatCMS:: Top Langs" /></p>
 <h4>Profile stats :musical_keyboard:</h4>
