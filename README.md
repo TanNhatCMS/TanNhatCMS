@@ -6,7 +6,7 @@
 - 🌱 I am currently studying at Ho Chi Minh City College of Information Technology
 - 💬 Ask me about: Python, C++, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev
 - Open and friendly.
-- Love to learn new things, especially things related to Backend stacks.
+- Love to learn new things.
 - Enjoy working with PHP (Laravel) ❤
   
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
