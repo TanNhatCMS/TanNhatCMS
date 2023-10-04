@@ -8,7 +8,8 @@
 - Open and friendly.
 - Love to learn new things.
 - Enjoy working with PHP (Laravel) ❤
-  
+    <h4 >Visitor's count :eyes:</h4>
+<img src="https://komarev.com/ghpvc/?username=TanNhatCMS&style=flat-square"/>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
@@ -29,8 +30,7 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=TanNhatCMS&show_icons=true&theme=synthwave" alt="TanNhatCMS:: Profile Stats" />
   </a>
 </div>
-  <h4 >Visitor's count :eyes:</h4>
-<img src="https://komarev.com/ghpvc/?username=TanNhatCMS&style=flat-square"/>
+
 <!--
 **TanNhatCMS/TanNhatCMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h4>Top langs :tongue:</h4>
