@@ -5,13 +5,9 @@
 - Enjoy working with PHP (Laravel) ❤
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="start" src="https://github-readme-stats.vercel.app/api?username=TanNhatCMS&show_icons=true&theme=midnight-purple&line_height=24" />
-</a>
-
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanNhatCMS&langs_count=10&theme=tokyonight&layout=compact" alt="TanNhatCMS:: Top Langs" /></p>
+ <p> <img align="start" src="https://github-readme-stats.vercel.app/api?username=TanNhatCMS&show_icons=true&theme=midnight-purple&line_height=24" /></p>
+<h4>Top langs :tongue:</h4>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanNhatCMS&langs_count=10&theme=tokyonight&layout=compact" alt="TanNhatCMS:: Top Langs" /></p>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 <!--
