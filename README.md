@@ -28,10 +28,9 @@
   <a href="#" title="TanNhatCMS">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=TanNhatCMS&show_icons=true&theme=synthwave" alt="TanNhatCMS:: Profile Stats" />
   </a>
+</div>
   <h4 >Visitor's count :eyes:</h4>
 <img src="https://komarev.com/ghpvc/?username=TanNhatCMS&style=flat-square"/>
-
-</div>
 <!--
 **TanNhatCMS/TanNhatCMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h4>Top langs :tongue:</h4>
