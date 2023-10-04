@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hi, I'm  Mrkiệt :technologist:
+Software Engineer
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="start" src="https://github-readme-stats.vercel.app/api?username=TanNhatCMS&show_icons=true&theme=midnight-purple&line_height=24" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanNhatCMS&layout=compact&theme=midnight-purple" />
+</a>
 <!--
 **TanNhatCMS/TanNhatCMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
