@@ -18,8 +18,6 @@
 <h4 >Visitor's count :eyes:</h4>
 <img src="https://komarev.com/ghpvc/?username=TanNhatCMS&style=flat-square"/>
 
-<h2 >Github stats :bar_chart:</h2>
-
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
