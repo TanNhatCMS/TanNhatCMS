@@ -17,9 +17,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<h4 >Visitor's count :eyes:</h4>
-<img src="https://komarev.com/ghpvc/?username=TanNhatCMS&style=flat-square"/>
-
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -31,6 +28,9 @@
   <a href="#" title="TanNhatCMS">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=TanNhatCMS&show_icons=true&theme=synthwave" alt="TanNhatCMS:: Profile Stats" />
   </a>
+  <h4 >Visitor's count :eyes:</h4>
+<img src="https://komarev.com/ghpvc/?username=TanNhatCMS&style=flat-square"/>
+
 </div>
 <!--
 **TanNhatCMS/TanNhatCMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
