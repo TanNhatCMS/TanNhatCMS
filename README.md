@@ -24,10 +24,10 @@
 <br>
 <div align=center>
   <a href="#" title="TanNhatCMS">
-    <img width="315" align="center" src="https://github-readme-stats-tannhatcms.vercel.app/api/top-langs/?username=TanNhatCMS&langs_count=10&theme=tokyonight&layout=compact" />
+    <img width="315" align="center" src="https://github-readme-stats-tannhatcms.vercel.app/api/top-langs/?username=TanNhatCMS&langs_count=20&theme=github_dark&layout=donut&size_weight=0&count_weight=1" />
   </a>
   <a href="#" title="TanNhatCMS">
-    <img align="right" width="434" src="https://github-readme-stats-tannhatcms.vercel.app/api?username=TanNhatCMS&show_icons=true&theme=synthwave" alt="TanNhatCMS:: Profile Stats" />
+    <img align="right" width="434" src="https://github-readme-stats-tannhatcms.vercel.app/api?username=TanNhatCMS&show_icons=true&theme=github_dark" alt="TanNhatCMS:: Profile Stats" />
   </a>
 </div>
 
