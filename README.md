@@ -30,7 +30,18 @@
     <img align="right" width="434" src="https://github-readme-stats-tannhatcms.vercel.app/api?username=TanNhatCMS&theme=github_dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile" alt="TanNhatCMS:: Profile Stats" />
   </a>
 </div>
-
+<br>
+<h2 align="center">🔥 Thống kê GitHub 🔥</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
+<div align=center>
+  <a href="#" title="TanNhatCMS">
+    <img width="315" align="center" src="https://github-readme-stats-tannhatcms.vercel.app/api/top-langs/?username=TanNhatCMS&langs_count=20&theme=github_dark&layout=donut&size_weight=0&count_weight=1&hide=hack,shell&locale=vi"  alt="TanNhatCMS:: Profile Stats"  />
+  </a>
+  <a href="#" title="TanNhatCMS">
+    <img align="right" width="434" src="https://github-readme-stats-tannhatcms.vercel.app/api?username=TanNhatCMS&theme=github_dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile&locale=vi" alt="TanNhatCMS:: Profile Stats" />
+  </a>
+</div>
 <!--
 **TanNhatCMS/TanNhatCMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h4>Top langs :tongue:</h4>
