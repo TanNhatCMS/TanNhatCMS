@@ -24,10 +24,10 @@
 <br>
 <div align=center>
   <a href="#" title="TanNhatCMS">
-    <img width="315" align="center" src="https://github-readme-stats-tannhatcms.vercel.app/api/top-langs/?username=TanNhatCMS&langs_count=20&theme=github_dark&layout=donut&size_weight=0&count_weight=1" />
+    <img width="315" align="center" src="https://github-readme-stats-tannhatcms.vercel.app/api/top-langs/?username=TanNhatCMS&langs_count=20&theme=github_dark&layout=donut&size_weight=0&count_weight=1&hide=hack,shell"  alt="TanNhatCMS:: Profile Stats"  />
   </a>
   <a href="#" title="TanNhatCMS">
-    <img align="right" width="434" src="https://github-readme-stats-tannhatcms.vercel.app/api?username=TanNhatCMS&show_icons=true&theme=github_dark" alt="TanNhatCMS:: Profile Stats" />
+    <img align="right" width="434" src="https://github-readme-stats-tannhatcms.vercel.app/api?username=TanNhatCMS&theme=github_dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile" alt="TanNhatCMS:: Profile Stats" />
   </a>
 </div>
 
