@@ -50,7 +50,7 @@ jobs:
           test -f dist/github-contribution-grid-snake.gif
           test -f dist/github-contribution-grid-snake-ocean.gif
 
-      - uses: crazy-max/ghaction-github-pages@v4.1.0
+      - uses: crazy-max/ghaction-github-pages@v4.2.0
         with:
           target_branch: output
           build_dir: dist
@@ -90,7 +90,7 @@ jobs:
           test -f dist/github-contribution-grid-snake-ocean.svg
           test -f dist/github-contribution-grid-snake-grey.svg
 
-      - uses: crazy-max/ghaction-github-pages@v4.1.0
+      - uses: crazy-max/ghaction-github-pages@v4.2.0
         with:
           target_branch: output-svg-only
           build_dir: dist
