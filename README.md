@@ -31,7 +31,7 @@
   </a>
 </div>
 <br>
-### 🐍 Contribution Snake
+<h2 align="center"> 🐍 Contribution Snake </h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanNhatCMS/TanNhatCMS/main/assets/github-contribution-grid-snake-dark.svg">
