@@ -20,16 +20,26 @@
 &nbsp;
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-  <a href="#" title="TanNhatCMS">
-    <img width="315" align="center" src="https://github-readme-stats-tannhatcms.vercel.app/api/top-langs/?username=TanNhatCMS&langs_count=20&theme=github_dark&layout=donut&size_weight=0&count_weight=1"  alt="TanNhatCMS:: Profile Stats"  />
-  </a>
-  <a href="#" title="TanNhatCMS">
-    <img align="right" width="434" src="https://github-readme-stats-tannhatcms.vercel.app/api?username=TanNhatCMS&theme=github_dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile" alt="TanNhatCMS:: Profile Stats" />
-  </a>
-</div>
+<table align=center>
+  <tbody>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tannhatcms.vercel.app/api?username=TanNhatCMS&theme=vue-dark&show_icons=true&show=prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-tannhatcms.vercel.app/api?username=TanNhatCMS&theme=vue&show_icons=true&show=prs_merged,prs_merged_percentage&include_all_commits=true&rank_icon=percentile&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api?username=ayangweb&theme=vue&show_icons=true&hide_border=true">
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tannhatcms.vercel.app/api/top-langs/?username=TanNhatCMS&langs_count=20&theme=vue-dark&layout=compact&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-tannhatcms.vercel.app/api/top-langs/?username=TanNhatCMS&langs_count=20&theme=vue&layout=compact&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayangweb&theme=vue&layout=compact&hide_border=true">
+        </picture>
+      </td>
+    </tr>
+  </tbody>
+</table>
 <br>
 <h2 align="center"> 🐍 Contribution Snake </h2>
 
