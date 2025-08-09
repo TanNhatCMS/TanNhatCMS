@@ -100,7 +100,7 @@ jobs:
           path: dist/assets/snake
 
       - name: Triển khai tới gh-output (đẩy một lần, ghi đè lên các tệp)
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v3.2.0
         with:
           target_branch: gh-output
           build_dir: dist
