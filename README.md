@@ -26,6 +26,8 @@
       <td>
         <a href="https://gitroll.io/profile/uTGkvENedGCSBgrBSuOVFOcsYTtm1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uTGkvENedGCSBgrBSuOVFOcsYTtm1?theme=WatchdogGradient" alt="GitRoll Profile Badge"/></a>
       </td>
+       </tr>
+       <tr>
       <td>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-tannhatcms.vercel.app/api?username=TanNhatCMS&theme=vue-dark&show_icons=true&show=prs_merged,prs_merged_perce...">
