@@ -88,13 +88,13 @@ jobs:
 
     steps:
       - name: Tải xuống thống kê Stats
-        uses: actions/download-artifact@v7
+        uses: actions/download-artifact@v8
         with:
           name: stats-artifact
           path: dist/assets/stats
 
       - name: Tải xuống thống kê Snake
-        uses: actions/download-artifact@v7
+        uses: actions/download-artifact@v8
         with:
           name: snake-artifact
           path: dist/assets/snake
