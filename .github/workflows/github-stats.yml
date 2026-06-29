@@ -31,7 +31,6 @@ jobs:
 
     - name: Tạo ảnh thống kê
       run: |
-        python3 --version
         python3 .github/scripts/generate_images.py
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
