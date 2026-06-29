@@ -1,0 +1,37 @@
+name: Tạo hiệu ứng Snake
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: "0 0 */3 * *"  # Chạy vào lúc 00:00 UTC, cứ 3 ngày một lần
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: generate snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/assets/snake/github-contribution-grid-snake.svg
+            dist/assets/snake/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Triển khai tới gh-output
+        uses: crazy-max/ghaction-github-pages@v5.0.0
+        with:
+          target_branch: gh-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

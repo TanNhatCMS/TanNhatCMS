@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="TanNhatCMS.svg" width="1200" alt="tannhatcms" />
+  <img src="assets/TanNhatCMS.svg" width="1200" alt="tannhatcms" />
 </a>
 
 # Hi, I'm Kiệt 👋

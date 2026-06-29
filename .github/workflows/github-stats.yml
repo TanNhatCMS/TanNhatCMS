@@ -1,0 +1,63 @@
+name: Tạo thống kê GitHub
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: "0 0 * * 0"  # Chạy vào lúc 00:00 UTC Chủ Nhật hàng tuần
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v7
+
+    - name: Cài đặt Python
+      uses: actions/setup-python@v6
+      with:
+        python-version: '3.14'
+        architecture: 'x64'
+        cache: 'pip'
+
+    - name: Cài đặt dependencies
+      run: |
+        python3 -m pip install --upgrade pip setuptools wheel
+        python3 -m pip install -r .github/scripts/requirements.txt
+
+    - name: Tạo ảnh thống kê
+      run: |
+        python3 --version
+        python3 .github/scripts/generate_images.py
+      env:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        EXCLUDED: ${{ secrets.EXCLUDED }}
+        EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
+        EXCLUDE_FORKED_REPOS: ${{ secrets.EXCLUDE_FORKED_REPOS }}
+
+    - name: Chuẩn bị số liệu thống kê để triển khai
+      run: |
+          mkdir -p dist/assets/stats
+          # Kiểm tra thư mục đầu ra (Lưu ý: Bạn hãy kiểm tra xem file Python của bạn 
+          # tạo ảnh ra thư mục gốc hay tạo bên trong thư mục .github/scripts/ nhé)
+          if [ -d generated ]; then
+            cp -r generated/* dist/assets/stats/ || true
+          elif [ -d .github/scripts/generated ]; then
+            cp -r .github/scripts/generated/* dist/assets/stats/ || true
+          else
+            cp -r *.svg dist/assets/stats/ || true
+            cp -r .github/scripts/*.svg dist/assets/stats/ || true
+          fi
+
+    - name: Triển khai tới gh-output
+      uses: crazy-max/ghaction-github-pages@v5.0.0
+      with:
+        target_branch: gh-output
+        build_dir: dist
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
