@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: "0 0 */3 * *"  # Chạy vào lúc 00:00 UTC, cứ 3 ngày một lần
+    - cron: "0 0 * * *" #  chạy hằng ngày
   workflow_dispatch:
 
 permissions:
