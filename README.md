@@ -125,7 +125,6 @@ Retrieval-Augmented Generation system for Vietnamese administrative/public-servi
 
 ## 🌐 Connect
 
-* GitHub: https://github.com/TanNhatCMS
 * GitRoll: https://gitroll.io/profile/uTGkvENedGCSBgrBSuOVFOcsYTtm1
 
 ---
@@ -141,30 +140,29 @@ Retrieval-Augmented Generation system for Vietnamese administrative/public-servi
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats-tannhatcms.vercel.app/api?username=TanNhatCMS&theme=vue-dark&show_icons=true&hide_border=true"
+        srcset="https://github-stats-extended.vercel.app/api?username=TanNhatCMS&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats-tannhatcms.vercel.app/api?username=TanNhatCMS&theme=vue&show_icons=true&hide_border=true"
+        srcset="https://github-stats-extended.vercel.app/api?username=TanNhatCMS&rank_icon=github&show=reviews%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=vue&hide_border=true"
       />
       <img
-        src="https://github-readme-stats.vercel.app/api?username=TanNhatCMS&theme=vue&show_icons=true&hide_border=true"
+        src="https://github-stats-extended.vercel.app/api?username=TanNhatCMS&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=vue&hide_border=true"
       />
     </picture>
   </td>
-
   <td>
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats-tannhatcms.vercel.app/api/top-langs/?username=TanNhatCMS&langs_count=20&theme=vue-dark&layout=compact&hide_border=true"
+        srcset="https://github-stats-extended.vercel.app/api/top-langs?username=TanNhatCMS&langs_count=20&theme=vue-dark&layout=compact&hide_border=true"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats-tannhatcms.vercel.app/api/top-langs/?username=TanNhatCMS&langs_count=20&theme=vue&layout=compact&hide_border=true"
+        srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=TanNhatCMS&langs_count=20&theme=vue&layout=compact&hide_border=true"
       />
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanNhatCMS&theme=vue&layout=compact&hide_border=true"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=TanNhatCMS&theme=vue&layout=compact&hide_border=true"
       />
     </picture>
   </td>
