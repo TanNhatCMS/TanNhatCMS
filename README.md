@@ -177,7 +177,7 @@ Retrieval-Augmented Generation system for Vietnamese administrative/public-servi
 
 ## 📈 Contribution Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TanNhatCMS\&theme=vue)](https://github.com/TanNhatCMS)
+[![Activity Graph](https://github-readme-activity-graph-iota.vercel.app/graph?username=TanNhatCMS\&theme=vue)](https://github.com/TanNhatCMS)
 
 ---
 
