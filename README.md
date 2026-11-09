@@ -152,21 +152,13 @@ Retrieval-Augmented Generation system for Vietnamese administrative/public-servi
     </picture>
   </td>
   <td>
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-stats-extended.vercel.app/api/top-langs?username=TanNhatCMS&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&hide=ejs%2Cperl%2Cshell%2Cdockerfile%2CpowerShell%2Cbatchfile%2Chack%2Ccmake%2Cmakefile&langs_count=20&theme=vue-dark&layout=compact&hide=hack&hide_border=true"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=TanNhatCMS&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&hide=ejs%2Cperl%2Cshell%2Cdockerfile%2CpowerShell%2Cbatchfile%2Chack%2Ccmake%2Cmakefile&langs_count=20&theme=vue&layout=compact&hide_border=true"
-      />
-      <img
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=TanNhatCMS&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&hide=ejs%2Cperl%2Cshell%2Cdockerfile%2CpowerShell%2Cbatchfile%2Chack%2Ccmake%2Cmakefile&langs_count=20&theme=vue&layout=compact&hide_border=true"
-      />
-    </picture>
+   
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TanNhatCMS&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&hide=ejs%2Cperl%2Cshell%2Cdockerfile%2CpowerShell%2Cbatchfile%2Chack%2Ccmake%2Cmakefile&langs_count=20&theme=vue&layout=compact&hide_border=true" />
+
   </td>
 </tr>
+
+
 
   </tbody>
 </table>
@@ -204,3 +196,18 @@ Retrieval-Augmented Generation system for Vietnamese administrative/public-servi
 src="https://komarev.com/ghpvc/?username=TanNhatCMS&style=flat-square"
 alt="profile views"
 />
+
+  <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-stats-extended.vercel.app/api/top-langs?username=TanNhatCMS&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&hide=ejs%2Cperl%2Cshell%2Cdockerfile%2CpowerShell%2Cbatchfile%2Chack%2Ccmake%2Cmakefile&langs_count=20&theme=vue-dark&layout=compact&hide=hack&hide_border=true"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=TanNhatCMS&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&hide=ejs%2Cperl%2Cshell%2Cdockerfile%2CpowerShell%2Cbatchfile%2Chack%2Ccmake%2Cmakefile&langs_count=20&theme=vue&layout=compact&hide_border=true"
+      />
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=TanNhatCMS&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&hide=ejs%2Cperl%2Cshell%2Cdockerfile%2CpowerShell%2Cbatchfile%2Chack%2Ccmake%2Cmakefile&langs_count=20&theme=vue&layout=compact&hide_border=true"
+      />
+      
+  </picture>
